@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinearLayout Diego Vicario</string>
+    <string-array name="Ciudades">
+        <item>Toledo</item>
+        <item>Salamanca</item>
+        <item>Avila</item>
+        <item>Plasencia</item>
+    </string-array>
+</resources>
